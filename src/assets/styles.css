@@ -1,0 +1,53 @@
+.box {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.box .box1 {
+    width: 50px;
+    height: 100%;
+    background-color: #42318d;
+}
+
+.box .box2 {
+    width: 100%;
+    height: 100%;
+    background-color: #7d5fff;
+}
+
+.box
+.box2
+.box2__col1 {
+    width: 100%;
+    height: 50%;
+    background-color: #c56cf0;
+}
+
+.box
+.box2
+.box2__col1
+.box2__col1__a {
+    width: 700px;
+    height: 100%;
+    background-color: black;
+}
+
+.box
+.box2
+.box2__col1
+.box2__col1__b {
+    width: 100%;
+    height: 100%;
+    background-color: blue;
+}
+
+
+.box
+.box2
+.box2__col2 {
+    width: 100%;
+    height: 50%;
+    background-color: #cd84f1;
+}
